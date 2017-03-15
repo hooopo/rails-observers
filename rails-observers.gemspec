@@ -2,7 +2,7 @@
 require File.expand_path('../lib/rails/observers/version', __FILE__)
 
 Gem::Specification.new do |s|
-  s.name        = "rails-observers"
+  s.name        = "rails-observers-hp"
   s.authors     = ["Rafael Mendonça França", "Steve Klabnik"]
   s.email       = ["rafaelmfranca@gmail.com", "steve@steveklabnik.com"]
   s.description = %q{Rails observer (removed from core in Rails 4.0)}
